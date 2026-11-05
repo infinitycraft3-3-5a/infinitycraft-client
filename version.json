@@ -1,0 +1,270 @@
+{
+    "release":  "v1.0.0",
+    "latestVersion":  4,
+    "minClientBuild":  0,
+    "skeleton":  {
+                     "sha256":  "84035d11ffe3d10edf4a4526c60fd4dc44b800590c4a5d15e0fabf76b5aa83af",
+                     "parts":  [
+                                   {
+                                       "file":  "skeleton.7z.001",
+                                       "size":  570017595,
+                                       "sha256":  "84035d11ffe3d10edf4a4526c60fd4dc44b800590c4a5d15e0fabf76b5aa83af"
+                                   }
+                               ]
+                 },
+    "patches":  [
+                    {
+                        "file":  "common.MPQ",
+                        "target":  "Data/common.MPQ",
+                        "sha256":  "d850ffa5efd6a1ba845899a7d9f9ad27f6eea7ac606e95033506c72c86ee0236",
+                        "parts":  [
+                                      {
+                                          "file":  "common.001",
+                                          "size":  1900000000,
+                                          "sha256":  "90ee61f1ee8661209cc876ae640809e88ce8946a1be546c0121f3c928e8a626a"
+                                      },
+                                      {
+                                          "file":  "common.002",
+                                          "size":  981154862,
+                                          "sha256":  "6ab3b6c6c66a89d566d8e42cf4e0b4c3ad7121e1127081be1096a421b7e89a34"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "common-2.MPQ",
+                        "target":  "Data/common-2.MPQ",
+                        "sha256":  "9c605d95443172bdfd7c6936bc636684761241657935c22da25f955083809f43",
+                        "parts":  [
+                                      {
+                                          "file":  "common-2.001",
+                                          "size":  1810430636,
+                                          "sha256":  "9c605d95443172bdfd7c6936bc636684761241657935c22da25f955083809f43"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "backup-enUS.MPQ",
+                        "target":  "Data/enUS/backup-enUS.MPQ",
+                        "sha256":  "9f52f932db31c407a1fb043aed715ed29c20e9a6e7446db9e2fa9408c960f6a5",
+                        "parts":  [
+                                      {
+                                          "file":  "backup-enUS.001",
+                                          "size":  167245856,
+                                          "sha256":  "9f52f932db31c407a1fb043aed715ed29c20e9a6e7446db9e2fa9408c960f6a5"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "base-enUS.MPQ",
+                        "target":  "Data/enUS/base-enUS.MPQ",
+                        "sha256":  "c02b13b4b85eb59b8a3557442e69b376fa5d491092ebaa2beeac979ddbd4514e",
+                        "parts":  [
+                                      {
+                                          "file":  "base-enUS.001",
+                                          "size":  29176975,
+                                          "sha256":  "c02b13b4b85eb59b8a3557442e69b376fa5d491092ebaa2beeac979ddbd4514e"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "expansion-locale-enUS.MPQ",
+                        "target":  "Data/enUS/expansion-locale-enUS.MPQ",
+                        "sha256":  "c9f27ce716b7195776929e8e3a7faeeaa15522215be47611c101dd5b1d8845c1",
+                        "parts":  [
+                                      {
+                                          "file":  "expansion-locale-enUS.001",
+                                          "size":  17389181,
+                                          "sha256":  "c9f27ce716b7195776929e8e3a7faeeaa15522215be47611c101dd5b1d8845c1"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "expansion-speech-enUS.MPQ",
+                        "target":  "Data/enUS/expansion-speech-enUS.MPQ",
+                        "sha256":  "b9d9d13fc46251248ac9a36893ef6e275de43aadff5b89871dfeca7165d92cf5",
+                        "parts":  [
+                                      {
+                                          "file":  "expansion-speech-enUS.001",
+                                          "size":  241033297,
+                                          "sha256":  "b9d9d13fc46251248ac9a36893ef6e275de43aadff5b89871dfeca7165d92cf5"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "lichking-locale-enUS.MPQ",
+                        "target":  "Data/enUS/lichking-locale-enUS.MPQ",
+                        "sha256":  "89b1eba015927e321683a3867be1b8a76e593c438527eb42f4934d03484f1b04",
+                        "parts":  [
+                                      {
+                                          "file":  "lichking-locale-enUS.001",
+                                          "size":  12354378,
+                                          "sha256":  "89b1eba015927e321683a3867be1b8a76e593c438527eb42f4934d03484f1b04"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "lichking-speech-enUS.MPQ",
+                        "target":  "Data/enUS/lichking-speech-enUS.MPQ",
+                        "sha256":  "8fc28d2f26d4b00db1884577cfa82769c234a8177b3827b5fae59dc006e6705f",
+                        "parts":  [
+                                      {
+                                          "file":  "lichking-speech-enUS.001",
+                                          "size":  354008839,
+                                          "sha256":  "8fc28d2f26d4b00db1884577cfa82769c234a8177b3827b5fae59dc006e6705f"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "locale-enUS.MPQ",
+                        "target":  "Data/enUS/locale-enUS.MPQ",
+                        "sha256":  "45f02a3bf3964b169f397cea58113cdce5fa7bdf58d4b63f68e46255bb3bd3ea",
+                        "parts":  [
+                                      {
+                                          "file":  "locale-enUS.001",
+                                          "size":  204291376,
+                                          "sha256":  "45f02a3bf3964b169f397cea58113cdce5fa7bdf58d4b63f68e46255bb3bd3ea"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "patch-enUS.MPQ",
+                        "target":  "Data/enUS/patch-enUS.MPQ",
+                        "sha256":  "c1c06b0d0c34c331b21df7cdd25cc422a650efbd477e42b80849ba30b2e5fc99",
+                        "parts":  [
+                                      {
+                                          "file":  "patch-enUS.001",
+                                          "size":  296616080,
+                                          "sha256":  "c1c06b0d0c34c331b21df7cdd25cc422a650efbd477e42b80849ba30b2e5fc99"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "patch-enUS-2.MPQ",
+                        "target":  "Data/enUS/patch-enUS-2.MPQ",
+                        "sha256":  "ab9af8457f0d7b99a562f26b7d1651bbf68ebc37ddb249d01ac860ccc8746ff4",
+                        "parts":  [
+                                      {
+                                          "file":  "patch-enUS-2.001",
+                                          "size":  225570171,
+                                          "sha256":  "ab9af8457f0d7b99a562f26b7d1651bbf68ebc37ddb249d01ac860ccc8746ff4"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "patch-enUS-3.MPQ",
+                        "target":  "Data/enUS/patch-enUS-3.MPQ",
+                        "sha256":  "d61a60297af9044d926754d997cd5aa630500cd003d41983a9ccb5b324d61299",
+                        "parts":  [
+                                      {
+                                          "file":  "patch-enUS-3.001",
+                                          "size":  100373935,
+                                          "sha256":  "d61a60297af9044d926754d997cd5aa630500cd003d41983a9ccb5b324d61299"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "patch-enUS-4.MPQ",
+                        "target":  "Data/enUS/patch-enUS-4.MPQ",
+                        "sha256":  "91c3d68ca9a904aaa191bdfdb64fde5fbb8d1950c0057713a6b4a48f55742892",
+                        "parts":  [
+                                      {
+                                          "file":  "patch-enUS-4.001",
+                                          "size":  9863833,
+                                          "sha256":  "91c3d68ca9a904aaa191bdfdb64fde5fbb8d1950c0057713a6b4a48f55742892"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "speech-enUS.MPQ",
+                        "target":  "Data/enUS/speech-enUS.MPQ",
+                        "sha256":  "bfd2c4bf07213736bae28e1c8f49bf60783e12545ac555016d6f22441f7c793d",
+                        "parts":  [
+                                      {
+                                          "file":  "speech-enUS.001",
+                                          "size":  438430439,
+                                          "sha256":  "bfd2c4bf07213736bae28e1c8f49bf60783e12545ac555016d6f22441f7c793d"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "expansion.MPQ",
+                        "target":  "Data/expansion.MPQ",
+                        "sha256":  "34a19723d773997b31ec72a16361af8bdd8cc38d108274b9b8a96521ec2c4f4a",
+                        "parts":  [
+                                      {
+                                          "file":  "expansion.001",
+                                          "size":  1900000000,
+                                          "sha256":  "ed475e8b38d349b87d7538a0c6371fa3dce03657961b20f105f138ca7b45b5c1"
+                                      },
+                                      {
+                                          "file":  "expansion.002",
+                                          "size":  21219911,
+                                          "sha256":  "41a3bb3bfd95f6b63e657ab6cdc6bfa3d095d91e494320e76f9acf9cb50ae625"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "lichking.MPQ",
+                        "target":  "Data/lichking.MPQ",
+                        "sha256":  "8456e92d47f2bc71efba30fcabd4fea8c5ef0d93feef320ba51ffeeacf78de9d",
+                        "parts":  [
+                                      {
+                                          "file":  "lichking.001",
+                                          "size":  1900000000,
+                                          "sha256":  "c3a713972e7fb30df4b329fa6193eb713efe7709155a26e2540eb35d9f6b0360"
+                                      },
+                                      {
+                                          "file":  "lichking.002",
+                                          "size":  653948549,
+                                          "sha256":  "3ef6c00bdd713a528ca76f7733fdfb974dd39780095f1875ff5e4a3b50dd89cf"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "patch.MPQ",
+                        "target":  "Data/patch.MPQ",
+                        "sha256":  "92b4a94a6c7a23c0b9fd88c47823e41792879a7ee1f70c2349a255153ca25d54",
+                        "parts":  [
+                                      {
+                                          "file":  "patch.001",
+                                          "size":  1900000000,
+                                          "sha256":  "5377ea3214f0714a7cd4c8e77d62d0c0d3c490b63e5d033946e2b2772515405d"
+                                      },
+                                      {
+                                          "file":  "patch.002",
+                                          "size":  1900000000,
+                                          "sha256":  "7690ecb08fd89d5d7214465ee09c558e8ec9b16c57e7c5f074fe51dcb52caaa0"
+                                      },
+                                      {
+                                          "file":  "patch.003",
+                                          "size":  204713057,
+                                          "sha256":  "ebf90179f940c619812a06d01b6ba9b37ea757f9e8a939f2e3d40fccc58b42f5"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "patch-2.MPQ",
+                        "target":  "Data/patch-2.MPQ",
+                        "sha256":  "c8b78bb75bcf5773e9ae99e11bdfcabc2a37aed3da947367d8af808d4d3c23c6",
+                        "parts":  [
+                                      {
+                                          "file":  "patch-2.001",
+                                          "size":  1401729059,
+                                          "sha256":  "c8b78bb75bcf5773e9ae99e11bdfcabc2a37aed3da947367d8af808d4d3c23c6"
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "patch-3.MPQ",
+                        "target":  "Data/patch-3.MPQ",
+                        "sha256":  "56dbbfc8f9ce7182ca88538d75284e738020138a7ca4217d72d8168865510dd3",
+                        "parts":  [
+                                      {
+                                          "file":  "patch-3.001",
+                                          "size":  605089137,
+                                          "sha256":  "56dbbfc8f9ce7182ca88538d75284e738020138a7ca4217d72d8168865510dd3"
+                                      }
+                                  ]
+                    }
+                ]
+}
