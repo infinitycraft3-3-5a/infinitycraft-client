@@ -1,14 +1,14 @@
 {
     "release":  "v1.0.0",
-    "latestVersion":  4,
-    "minClientBuild":  0,
+    "latestVersion":  5,
+    "minClientBuild":  1,
     "skeleton":  {
-                     "sha256":  "84035d11ffe3d10edf4a4526c60fd4dc44b800590c4a5d15e0fabf76b5aa83af",
+                     "sha256":  "c3914688b7ac7fa0f173dd088c40a3dfe66b37da56631eaf445ecb2f233d7f71",
                      "parts":  [
                                    {
                                        "file":  "skeleton.7z.001",
-                                       "size":  570017595,
-                                       "sha256":  "84035d11ffe3d10edf4a4526c60fd4dc44b800590c4a5d15e0fabf76b5aa83af"
+                                       "size":  562924919,
+                                       "sha256":  "c3914688b7ac7fa0f173dd088c40a3dfe66b37da56631eaf445ecb2f233d7f71"
                                    }
                                ]
                  },
