@@ -1,7 +1,7 @@
 {
     "release":  "v1.0.0",
     "latestVersion":  5,
-    "minClientBuild":  1,
+    "minClientBuild":  5,
     "skeleton":  {
                      "sha256":  "c3914688b7ac7fa0f173dd088c40a3dfe66b37da56631eaf445ecb2f233d7f71",
                      "parts":  [
